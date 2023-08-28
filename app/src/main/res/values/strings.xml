@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Live Data App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+    <string name="number">0</string>
+    <string name="increment">INCREMENT</string>
+    <string name="clear">CLEAR</string>
+    <string name="decrement">DECREMENT</string>
+    <string name="btnPlus">+</string>
+    <string name="minus">-</string>
+    <string name="blank">0</string>
+</resources>
